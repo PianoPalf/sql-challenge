@@ -39,7 +39,7 @@ Project created and run using:
 
 ## Code example
 
-```postgresql
+```sql
 --Code Snippet from ph_queries.sql
 
 /* DATA ANALYSIS */
