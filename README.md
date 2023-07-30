@@ -35,7 +35,7 @@ Project created and run using:
 
 #### Entity Relationship Diagram
 
-![ERD](ERD.png)
+![ERD](EmployeeSQL/ERD.png)
 
 ## Code example
 
